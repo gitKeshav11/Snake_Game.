@@ -8,20 +8,19 @@ Control the snake, eat the food, grow longer, and try to score as high as possib
 ## 🎮 Game Preview
 
 ### 🖼️ Gameplay Screenshot
-![Snake Game Screenshot](./screenshots/game.png)
-
----
+[Snake Game Screenshot]
 
 ## 📂 Project File Structure
+
 Snake_Game/
 ├── src/
-│   ├── Snake_Gamess.java
-│   └── Snakess.java
+│ ├── Snake_Gamess.java
+│ └── Snakess.java
 ├── icons/
-│   ├── snake.png
-│   └── food.png
+│ ├── snake.png
+│ └── food.png
 ├── screenshots/
-│   └── game.png
+│ └── game.png
 ├── .idea/
 ├── out/
 ├── README.md
