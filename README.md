@@ -12,6 +12,19 @@ Control the snake, eat the food, grow longer, and try to score as high as possib
 
 ## 📂 Project File Structure
 
+## 📂 Project File Structure
+
+```text
+SnakeGame/
+├── .idea/                 # IntelliJ settings (hidden)
+├── out/                   # Compiled class files
+├── icons/                 # Game assets (images, icons)
+│   ├── snake_head.png
+│   └── food.png
+├── Gameplay_Screenshot/   # Project demo images
+├── Snake_Gamess.java      # Main Frame/Window Class
+├── Snakess.java           # Game Logic Class
+└── README.md              # Project documentation
 Snake_Game/
 ├── src/
 │ ├── Snake_Gamess.java
