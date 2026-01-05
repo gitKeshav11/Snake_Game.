@@ -12,8 +12,6 @@ Control the snake, eat the food, grow longer, and try to score as high as possib
 
 ## 📂 Project File Structure
 
-## 📂 Project File Structure
-
 ```text
 SnakeGame/
 ├── .idea/                 # IntelliJ settings (hidden)
@@ -25,46 +23,6 @@ SnakeGame/
 ├── Snake_Gamess.java      # Main Frame/Window Class
 ├── Snakess.java           # Game Logic Class
 └── README.md              # Project documentation
-Snake_Game/
-├── src/
-│ ├── Snake_Gamess.java
-│ └── Snakess.java
-├── icons/
-│ ├── snake.png
-│ └── food.png
-├── screenshots/
-│ └── game.png
-├── .idea/
-├── out/
-├── README.md
-└── Snake_Game.iml
-
-SnakeGame/                 <-- Yeh aapka "Root Folder" hai
-│
-├── .idea/                 # (Hidden Folder)
-│   └── (xml files...)     # Isme IntelliJ IDE ki settings hoti hain. 
-│                          # Isse GitHub par upload karna zaruri nahi hota.
-│
-├── out/                   # (Output Folder)
-│   └── production/        # Isme aapke code ki compiled (.class) files hoti hain.
-│                          # Yeh folder bhi upload karne ki zarurat nahi hoti.
-│
-├── icons/                 # (Assets Folder)
-│   ├── snake_head.png     # Game mein use hone wali images/icons.
-│   └── food.png           # Bina is folder ke aapka game "Image Not Found" error dega.
-│
-├── Gameplay_Screenshot/   # (Documentation)
-│   └── demo.png           # Taaki koi aapka GitHub dekhe toh usse game ka look pata chale.
-│
-├── Snake_Gamess.java      # (Source Code)
-│   └── // Main Class     # Isme shayad aapka JFrame ya Game Window ka logic hai.
-│
-├── Snakess.java           # (Source Code)
-│   └── // Game Logic     # Isme Snake ki movement, collision, aur speed ka logic hoga.
-│
-└── README.md              # (Project Info)
-    └── // Description    # Isme likha hota hai ki game kaise chalana hai.
-
 ---
 
 ## 🚀 Features
